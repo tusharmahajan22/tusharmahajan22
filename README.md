@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tushar Mahajan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I am currently doing my B.Tech from SRM University, Chennai in Computer Science and Engineering.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharmahajan22&label=Profile%20views&color=0e75b6&style=flat" alt="tusharmahajan22" /> </p>
 
